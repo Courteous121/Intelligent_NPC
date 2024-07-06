@@ -12,8 +12,8 @@ Frontend: Built using Streamlit for the user interface.
 ## Installation and Setup
 1. Clone the Repository:
 ```
-git clone <repository_url>
-cd <repository_directory>
+git clone [<repository_url>](https://github.com/Courteous121/Intelligent_NPC.git)
+cd [<repository_directory>](https://github.com/Courteous121/Intelligent_NPC.git)
 ```
 
 2. Install Dependencies:
